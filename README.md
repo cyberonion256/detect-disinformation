@@ -10,11 +10,10 @@ Für das Quiz in der gemeinsamen Session finden Sie nachfolgend die Bilder in h�
 <details>
 <summary><strong>Bild 1: Fake or not?</strong></summary>
 
-<br>
-<br>
-
-![Bild1](./images/Bild1.jpg)  
-**Quelle:** [Detect Fakes – Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
+  <p>
+    <img src="/detect-disinformation/images/Bild1.jpg" alt="Bild1">
+    Quelle: <a href="https://detectfakes.kellogg.northwestern.edu/">Detect Fakes – Northwestern University</a>
+  </p>
 
 </details>
 
