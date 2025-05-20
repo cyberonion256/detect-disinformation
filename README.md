@@ -3,55 +3,7 @@ Unterlagen zur CBF-Session ["Desinformation – behördliche Herausforderungen, 
 
 ---
 
-## 🔍 FAKE OR NOT QUIZ
-
-Für das Quiz in der gemeinsamen Session finden Sie nachfolgend die Bilder in höherer Auflösung und besseren Ansicht. 
-
-<details>
-<summary><strong>Bild 1: Fake or not?</strong></summary>
-
-  <p>
-    <img src="/detect-disinformation/images/Bild1.jpg" alt="Bild1">
-    Quelle: <a href="https://detectfakes.kellogg.northwestern.edu/">Detect Fakes – Northwestern University</a>
-  </p>
-
-</details>
-
-
-<details>
-<summary><strong>Bild 2: Fake or not?</strong></summary>
-
-<br>
-
-![Bild2](./images/Bild2.jpg)
-**Quelle**: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
-
-</details>
-
-<details>
-<summary><strong>Bild 3: Fake or not?</strong></summary>
-
-<br>
-
-![Bild3](./images/Bild3.jpg)
-**Quelle**: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
-
-</details>
-
-
-<details>
-<summary><strong>Bild 4: Fake or not?</strong></summary>
-
-<br>
-
-![Bild4](./images/Bild4.jpg)
-**Quelle**: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
-
-</details>
-
----
-
-## 📝 HANDREICHUNG: FALSCHINFORMATIONEN ERKENNEN
+## 📝 Handreichung: 5 Schritte um Falschinformationen erkennen
 
 Die Handreichung „Desinformation in der Verwaltung: Falschinformationen bei der behördlichen Internetarbeit erkennen“ steht hier als Arbeitsversion zum Download bereit: 
 
@@ -59,7 +11,39 @@ Die Handreichung „Desinformation in der Verwaltung: Falschinformationen bei de
 
 ---
 
-## 📬 KONTAKT & FRAGEN
+
+## 🔍 Quiz: Fake or not?
+
+Für das Quiz in der gemeinsamen Session finden Sie nachfolgend die Bilder in höherer Auflösung und besserer Ansicht.
+
+
+### 🖼️ Bild 1: Fake or not?
+
+![Bild1](images/Bild1.jpg)  
+**Quelle:** [Detect Fakes – Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
+
+
+### 🖼️ Bild 2: Fake or not?
+
+![Bild2](images/Bild2.jpg)  
+**Quelle:** [Detect Fakes – Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
+
+
+### 🖼️ Bild 3: Fake or not?
+
+![Bild3](images/Bild3.jpg)  
+**Quelle:** [Detect Fakes – Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
+
+
+### 🖼️ Bild 4: Fake or not?
+
+![Bild4](images/Bild4.jpg)  
+**Quelle:** [Detect Fakes – Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
+
+
+---
+
+## 📬 Kontakt & Fragen
 
 Bei Rückfragen oder Anmerkungen wenden Sie sich gerne an **Louis Jarvers** (PD, Manager im Bereich Öffentliche Sicherheit & KIT / FZI, Gastforscher und Promovent zum Thema Desinformation) unter 📧 [louis.jarvers@pd-g.de](mailto:louis.jarvers@pd-g.de)
 
