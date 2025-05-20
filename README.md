@@ -11,6 +11,7 @@ Für das Quiz in der gemeinsamen Session finden Sie nachfolgend die Bilder in h�
 <summary><strong>Bild 1: Fake or not?</strong></summary>
 
 <br>
+<br>
 
 ![Bild1](./images/Bild1.jpg)  
 **Quelle:** [Detect Fakes – Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
