@@ -10,8 +10,10 @@ Für das Quiz in der gemeinsamen Session finden Sie nachfolgend die Bilder in h�
 <details>
 <summary><strong>Bild 1: Fake or not?</strong></summary>
 
-![Bild1](./images/Bild1.jpg)
-Quelle: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
+<br>
+
+![Bild1](./images/Bild1.jpg)  
+**Quelle:** [Detect Fakes – Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
 
 </details>
 
@@ -19,16 +21,20 @@ Quelle: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg
 <details>
 <summary><strong>Bild 2: Fake or not?</strong></summary>
 
+<br>
+
 ![Bild2](./images/Bild2.jpg)
-Quelle: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
+**Quelle**: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
 
 </details>
 
 <details>
 <summary><strong>Bild 3: Fake or not?</strong></summary>
 
+<br>
+
 ![Bild3](./images/Bild3.jpg)
-Quelle: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
+**Quelle**: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
 
 </details>
 
@@ -36,8 +42,10 @@ Quelle: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg
 <details>
 <summary><strong>Bild 4: Fake or not?</strong></summary>
 
+<br>
+
 ![Bild4](./images/Bild4.jpg)
-Quelle: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
+**Quelle**: ["Detect Fakes" der Northwestern University](https://detectfakes.kellogg.northwestern.edu/)
 
 </details>
 
