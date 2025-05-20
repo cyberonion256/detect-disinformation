@@ -3,7 +3,7 @@ Unterlagen zur CBF-Session ["Desinformation – behördliche Herausforderungen, 
 
 ---
 
-## 📝 Handreichung: 5 Schritte um Falschinformationen erkennen
+## 📝 Handreichung: "Quick Check - Falschinformationen erkennen"
 
 Die Handreichung „Desinformation in der Verwaltung: Falschinformationen bei der behördlichen Internetarbeit erkennen“ steht hier als Arbeitsversion zum Download bereit: 
 
